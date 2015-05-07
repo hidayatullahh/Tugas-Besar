@@ -1,5 +1,4 @@
 package kontrolkelas;
-
 import java.util.Scanner;
 public class KontrolKelas {
 
