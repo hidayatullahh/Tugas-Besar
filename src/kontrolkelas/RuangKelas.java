@@ -9,7 +9,7 @@ package kontrolkelas;
  *
  * @author Acer
  */
-public class RuangKelas {
+public class RuangKelas{
     //Identitas Ruang Kelas
     private String namaRuang;
     private String lokasi;
@@ -51,7 +51,6 @@ public class RuangKelas {
     private String Kerusakan;
     private String Kebersihan;
     
-
     public String getNamaRuang() {
         return namaRuang;
     }
